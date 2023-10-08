@@ -1,0 +1,11 @@
+
+.MuiButton-text {
+    padding: 4px 8px !important;
+    margin: 0px;
+}
+
+.MuiButton-textPrimary {
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif !important;
+}
